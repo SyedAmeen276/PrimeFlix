@@ -1,0 +1,13 @@
+.trending {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-right: 10px;
+
+}
+.pageTitle{
+  padding-top: 80px;
+}
+.pageTitle1{
+  padding-top: 40px;
+}

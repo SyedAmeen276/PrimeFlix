@@ -1,0 +1,33 @@
+
+.lists{
+    box-sizing: border-box;
+}
+.list{
+    float: left;
+    width: 25%;
+    padding: 10px;
+    height: 25px; 
+}
+.lists:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .seasons ,.episodes{
+      color: red;
+  }
+  .seasons:hover{
+    color: turquoise;
+  
+  }
+  .episodes:hover{
+      color: yellow;
+  }
+  .similar{
+    padding-top: 10px;
+    text-transform: uppercase;
+    color: green;
+    font-size: xx-large;
+}
+
+

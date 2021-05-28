@@ -1,0 +1,37 @@
+.header {
+  width: 100%;
+  cursor: pointer;
+  position: fixed;
+  display: flex;
+  justify-content: left;
+  text-transform: capitalize;
+  background-color: #563d7c;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2vw;
+  box-shadow: 0px 1px 5px black;
+  color: white;
+  z-index: 100;
+}
+
+@media (max-width: 1000px) {
+  .header {
+    padding-top: 15px;
+    font-size: 6.4vw;
+  }
+}
+.Navbar{
+
+  margin-left: 95px;
+
+}
+.navItem{
+ float: left;
+ list-style: none;
+ text-transform: capitalize;
+ margin-right: 100px;
+ color: white;
+}
+ul li :hover{
+  color: red;
+  text-decoration: none;
+}
