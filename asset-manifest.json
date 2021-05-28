@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/primeflix/static/css/main.25867765.chunk.css",
-    "main.js": "/primeflix/static/js/main.49b8c7ac.chunk.js",
-    "main.js.map": "/primeflix/static/js/main.49b8c7ac.chunk.js.map",
-    "runtime-main.js": "/primeflix/static/js/runtime-main.7276b335.js",
-    "runtime-main.js.map": "/primeflix/static/js/runtime-main.7276b335.js.map",
-    "static/css/2.af3ab7ac.chunk.css": "/primeflix/static/css/2.af3ab7ac.chunk.css",
-    "static/js/2.f2f3182e.chunk.js": "/primeflix/static/js/2.f2f3182e.chunk.js",
-    "static/js/2.f2f3182e.chunk.js.map": "/primeflix/static/js/2.f2f3182e.chunk.js.map",
-    "index.html": "/primeflix/index.html",
-    "service-worker.js": "/primeflix/service-worker.js",
-    "service-worker.js.map": "/primeflix/service-worker.js.map",
-    "static/css/2.af3ab7ac.chunk.css.map": "/primeflix/static/css/2.af3ab7ac.chunk.css.map",
-    "static/css/main.25867765.chunk.css.map": "/primeflix/static/css/main.25867765.chunk.css.map",
-    "static/js/2.f2f3182e.chunk.js.LICENSE.txt": "/primeflix/static/js/2.f2f3182e.chunk.js.LICENSE.txt"
+    "main.css": "/PrimeFlix/static/css/main.25867765.chunk.css",
+    "main.js": "/PrimeFlix/static/js/main.8748ad8a.chunk.js",
+    "main.js.map": "/PrimeFlix/static/js/main.8748ad8a.chunk.js.map",
+    "runtime-main.js": "/PrimeFlix/static/js/runtime-main.8b6f6309.js",
+    "runtime-main.js.map": "/PrimeFlix/static/js/runtime-main.8b6f6309.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/PrimeFlix/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.f2f3182e.chunk.js": "/PrimeFlix/static/js/2.f2f3182e.chunk.js",
+    "static/js/2.f2f3182e.chunk.js.map": "/PrimeFlix/static/js/2.f2f3182e.chunk.js.map",
+    "index.html": "/PrimeFlix/index.html",
+    "service-worker.js": "/PrimeFlix/service-worker.js",
+    "service-worker.js.map": "/PrimeFlix/service-worker.js.map",
+    "static/css/2.af3ab7ac.chunk.css.map": "/PrimeFlix/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.25867765.chunk.css.map": "/PrimeFlix/static/css/main.25867765.chunk.css.map",
+    "static/js/2.f2f3182e.chunk.js.LICENSE.txt": "/PrimeFlix/static/js/2.f2f3182e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7276b335.js",
+    "static/js/runtime-main.8b6f6309.js",
     "static/css/2.af3ab7ac.chunk.css",
     "static/js/2.f2f3182e.chunk.js",
     "static/css/main.25867765.chunk.css",
-    "static/js/main.49b8c7ac.chunk.js"
+    "static/js/main.8748ad8a.chunk.js"
   ]
 }
