@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/PrimeFlix/static/css/main.dffcb675.chunk.css",
-    "main.js": "/PrimeFlix/static/js/main.234ae357.chunk.js",
-    "main.js.map": "/PrimeFlix/static/js/main.234ae357.chunk.js.map",
+    "main.css": "/PrimeFlix/static/css/main.e73c0059.chunk.css",
+    "main.js": "/PrimeFlix/static/js/main.c531d4b2.chunk.js",
+    "main.js.map": "/PrimeFlix/static/js/main.c531d4b2.chunk.js.map",
     "runtime-main.js": "/PrimeFlix/static/js/runtime-main.8b6f6309.js",
     "runtime-main.js.map": "/PrimeFlix/static/js/runtime-main.8b6f6309.js.map",
     "static/css/2.af3ab7ac.chunk.css": "/PrimeFlix/static/css/2.af3ab7ac.chunk.css",
-    "static/js/2.f2f3182e.chunk.js": "/PrimeFlix/static/js/2.f2f3182e.chunk.js",
-    "static/js/2.f2f3182e.chunk.js.map": "/PrimeFlix/static/js/2.f2f3182e.chunk.js.map",
+    "static/js/2.b447f9f7.chunk.js": "/PrimeFlix/static/js/2.b447f9f7.chunk.js",
+    "static/js/2.b447f9f7.chunk.js.map": "/PrimeFlix/static/js/2.b447f9f7.chunk.js.map",
     "index.html": "/PrimeFlix/index.html",
     "service-worker.js": "/PrimeFlix/service-worker.js",
     "service-worker.js.map": "/PrimeFlix/service-worker.js.map",
     "static/css/2.af3ab7ac.chunk.css.map": "/PrimeFlix/static/css/2.af3ab7ac.chunk.css.map",
-    "static/css/main.dffcb675.chunk.css.map": "/PrimeFlix/static/css/main.dffcb675.chunk.css.map",
-    "static/js/2.f2f3182e.chunk.js.LICENSE.txt": "/PrimeFlix/static/js/2.f2f3182e.chunk.js.LICENSE.txt"
+    "static/css/main.e73c0059.chunk.css.map": "/PrimeFlix/static/css/main.e73c0059.chunk.css.map",
+    "static/js/2.b447f9f7.chunk.js.LICENSE.txt": "/PrimeFlix/static/js/2.b447f9f7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8b6f6309.js",
     "static/css/2.af3ab7ac.chunk.css",
-    "static/js/2.f2f3182e.chunk.js",
-    "static/css/main.dffcb675.chunk.css",
-    "static/js/main.234ae357.chunk.js"
+    "static/js/2.b447f9f7.chunk.js",
+    "static/css/main.e73c0059.chunk.css",
+    "static/js/main.c531d4b2.chunk.js"
   ]
 }
